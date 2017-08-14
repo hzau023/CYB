@@ -1,0 +1,290 @@
+[
+	{
+		"id":"红茶",
+		"pro":{
+			"正山小种":{
+				"src":"images/201612/thumb_img/379_thumb_G_1482914881976.jpg",
+				"name":"茶叶帮 特级金骏眉特级皮纹烤漆木制礼盒装240克",
+				"newPrice":550,
+				"oldPrice":924,
+				"list":{
+					"款式":[
+						"口径8cm [0.00]",
+						"口径12cm [2400.00]",
+						"口径10cm  [1000.00]",
+						"口径9cm  [200.00]"
+					]
+				},
+				"imgs":[
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914804122997.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914808312066.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914810969290.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914812671381.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914813104941.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914814459923.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914816131061.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914817597539.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914820373687.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914825106933.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914830132512.jpg"
+				],
+				"gunImgs":[
+					"images/201612/goods_img/379_P_1482914881622.jpg",
+					"images/201612/goods_img/379_P_1482914913368.jpg",
+					"images/201612/goods_img/379_P_1482914913007.jpg",
+					"images/201612/goods_img/379_P_1482914914319.jpg"
+				]
+			},
+			"金俊眉":{
+				"src":"images/201612/thumb_img/379_thumb_G_1482914881976.jpg",
+				"name":"茶叶帮 特级金骏眉特级皮纹烤漆木制礼盒装240克",
+				"newPrice":550,
+				"oldPrice":924,
+				"list":{
+					"款式":[
+						"口径8cm [0.00]",
+						"口径12cm [2400.00]",
+						"口径10cm  [1000.00]",
+						"口径9cm  [200.00]"
+					]
+				},
+				"imgs":[
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914804122997.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914808312066.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914810969290.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914812671381.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914813104941.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914814459923.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914816131061.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914817597539.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914820373687.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914825106933.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914830132512.jpg"
+				],
+				"gunImgs":[
+					"images/201612/goods_img/379_P_1482914881622.jpg",
+					"images/201612/goods_img/379_P_1482914913368.jpg",
+					"images/201612/goods_img/379_P_1482914913007.jpg",
+					"images/201612/goods_img/379_P_1482914914319.jpg"
+				]
+			},
+			"坦洋工夫"	:{
+				"src":"images/201612/thumb_img/379_thumb_G_1482914881976.jpg",
+				"name":"茶叶帮 特级金骏眉特级皮纹烤漆木制礼盒装240克",
+				"newPrice":550,
+				"oldPrice":924,
+				"list":{
+					"款式":[
+						"口径8cm [0.00]",
+						"口径12cm [2400.00]",
+						"口径10cm  [1000.00]",
+						"口径9cm  [200.00]"
+					]
+				},
+				"imgs":[
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914804122997.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914808312066.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914810969290.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914812671381.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914813104941.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914814459923.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914816131061.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914817597539.jpg", 
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914820373687.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914825106933.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161228/1482914830132512.jpg"
+				],
+				"gunImgs":[
+					"images/201612/goods_img/379_P_1482914881622.jpg",
+					"images/201612/goods_img/379_P_1482914913368.jpg",
+					"images/201612/goods_img/379_P_1482914913007.jpg",
+					"images/201612/goods_img/379_P_1482914914319.jpg"
+				]
+			}
+		}
+	},
+	{
+		"id":"绿茶",
+		"pro":{
+			"西湖龙井":{
+				"src":"images/201612/thumb_img/375_thumb_G_1482888031390.jpg",
+				"name":"茶叶帮 特级礼盒装武夷山正岩肉桂 ",
+				"newPrice":450,
+				"oldPrice":756
+			},
+			"安吉白茶":{
+				"src":"images/201612/thumb_img/375_thumb_G_1482888031390.jpg",
+				"name":"茶叶帮 特级礼盒装武夷山正岩肉桂 ",
+				"newPrice":450,
+				"oldPrice":756
+			},
+			"碧螺春":{
+				"src":"images/201612/thumb_img/375_thumb_G_1482888031390.jpg",
+				"name":"茶叶帮 特级礼盒装武夷山正岩肉桂 ",
+				"newPrice":450,
+				"oldPrice":756
+			}
+		}
+	},
+	{
+		"id":"乌龙茶",
+		"pro":{
+			"铁观音":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924,
+				"imgs":[
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012394110914.jpg",
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012399106563.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012400443614.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012402100909.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012404317187.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012405844455.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012407413535.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012408257760.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012410646122.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012411124792.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012412297306.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012418748494.jpg" ,
+					"includes/ueditor/php/../../../bdimages/upload1/20161229/1483012422994335.jpg" 
+				],
+				"gunImgs":[
+					"images/201612/goods_img/387_P_1483012662758.jpg",
+		             "images/201612/goods_img/387_P_1483012705530.jpg",
+		             "images/201612/goods_img/387_P_1483012706737.jpg",
+		             "images/201612/goods_img/387_P_1483012706919.jpg",
+		             "images/201612/goods_img/387_P_1483012707216.jpg"
+				]
+			},
+			"大红袍":{
+				"src":"images/201612/thumb_img/384_thumb_G_1483009179330.jpg",
+				"name":"小罐茶大师作 特级武夷岩茶大红袍 礼盒装茶叶 ",
+				"newPrice":30,
+				"oldPrice":50
+			},
+			"正岩肉桂":{
+				"src":"images/201612/thumb_img/375_thumb_G_1482888031390.jpg",
+				"name":"茶叶帮 特级礼盒装武夷山正岩肉桂 ",
+				"newPrice":450,
+				"oldPrice":756
+			}
+		}
+	},
+	{
+		"id":"白茶",
+		"pro":{
+			"白毫银针":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			},
+			"白牡丹":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			},
+			"老白茶":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			}
+		}
+	},
+	{ 
+		"id":"普洱茶",
+		"pro":{
+			"普洱茶":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			},
+			"老班章":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			},
+			"七子饼茶":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			}
+		}
+	},
+	{
+		"id":"其他茶",
+		"pro":{
+			"黄茶":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			},
+			"茉莉花茶":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			},
+			"花草茶":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			}
+		}
+	},
+	{
+		"id":"茶道零配",
+		"pro":{
+			"茶具":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			},
+			"茶盘":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			},
+			"根雕":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			}
+		}
+	},
+	{
+		"id":"大板",
+		"pro":{
+			"乌金木200":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			},
+			"乌金木206":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			},
+			"巴花":{
+				"src":"images/201612/thumb_img/387_thumb_G_1483012662854.jpg",
+				"name":"特级安溪铁观音茶叶清香型兰花香乌龙茶2016新茶礼盒装375g ",
+				"newPrice":550,
+				"oldPrice":924
+			}
+		}
+	}
+
+]
